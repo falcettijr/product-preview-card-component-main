@@ -23,7 +23,7 @@ Users should be able to:
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ## Links
 
@@ -34,11 +34,12 @@ Users should be able to:
 
 - HTML5 
 - CSS 3 
-- FlexBox
+- Figma
 
 ## O que aprendi
 
-Nesse projeto eu treinei minha habilidades em HTML, CSS3 e FlexBox.
+Nesse projeto eu treinei minha habilidades em HTML, CSS3 e Figma.
+
 ## Author
 
 - Website - [Sergio Falcetti](https://beacons.ai/sergiofalcetti)
